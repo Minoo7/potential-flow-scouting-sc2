@@ -21,10 +21,6 @@ Files that show my potential flow code are:
 
 ## Set-up and running the bot
 
-You need to have the PyCommandCenter library in the root directory of your project. This is covered in the 
-[lab instructions](https://gitlab.liu.se/tddd92/tddd92-lab-instructions/-/wikis/installationsinstruktioner) for the 
-course TDDD92.
-
 To run the agent you need to create a file `config.py`. **It needs to include the SC2-path that is specific to your 
 computer.** It should also contain some customizable booleans for debugging, and other config variables. You solve 
 this by copying `_config.py`, renaming the copy, and modifying it as needed.
