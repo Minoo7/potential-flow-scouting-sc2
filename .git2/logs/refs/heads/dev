@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 cac8e7675f9bcd93b5964a54929792dae894571c vinga129 <vinga129@student.liu.se> 1702315482 +0100	branch: Created from origin/dev
+cac8e7675f9bcd93b5964a54929792dae894571c 374cf93c1f74050c2b71a7e21144511f6c5079e4 vinga129 <vinga129@student.liu.se> 1702315595 +0100	commit: updated gitignore based on unneccesarry files from vincent
+374cf93c1f74050c2b71a7e21144511f6c5079e4 5efbfc6bdbbc65d23bd4b937f88e2136a07e9331 vinga129 <vinga129@student.liu.se> 1702319258 +0100	pull --tags origin dev: Fast-forward
+5efbfc6bdbbc65d23bd4b937f88e2136a07e9331 204fee70b0d07a691ca2d6351611d270c28067f6 vinga129 <vinga129@student.liu.se> 1702385708 +0100	pull --tags origin dev: Fast-forward
+204fee70b0d07a691ca2d6351611d270c28067f6 91272d2a95370e5d98dd9debfadc15878d42e1a6 vinga129 <vinga129@student.liu.se> 1702388779 +0100	pull --tags origin dev: Fast-forward
+91272d2a95370e5d98dd9debfadc15878d42e1a6 f243071157f2f8cf674f6ea9f38e5f82cd082088 vinga129 <vinga129@student.liu.se> 1702390311 +0100	commit: some changes after eriks merge. Added option in config for optionally choosing whether to use eriks chokepoints or not
+f243071157f2f8cf674f6ea9f38e5f82cd082088 c5e27fa70116be0fc8d35365df0fa84dc367a349 vinga129 <vinga129@student.liu.se> 1702402263 +0100	pull --tags origin dev: Fast-forward
+c5e27fa70116be0fc8d35365df0fa84dc367a349 9898eebf73dfdc9f8063505d025e3b4c8d8148ff vinga129 <vinga129@student.liu.se> 1702405889 +0100	commit: added .prof files to gitignore
+9898eebf73dfdc9f8063505d025e3b4c8d8148ff b98b460eea3345a826e7c84d48e22dd3e419730d vinga129 <vinga129@student.liu.se> 1702908444 +0100	pull --tags origin dev: Fast-forward

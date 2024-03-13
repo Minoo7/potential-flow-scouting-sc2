@@ -1,0 +1,77 @@
+0000000000000000000000000000000000000000 dde86fe546485089dbce2ad96ae2ff7aa73b6ba2 Vincent <minoo@VincentPC.(none)> 1698824313 +0100	clone: from https://gitlab.liu.se/tddd92-2023/tddd92-2023-projekt-sg1-02
+dde86fe546485089dbce2ad96ae2ff7aa73b6ba2 78b480c9038bddc33264097abb1b36569dfa2f8d Vincent <minoo@VincentPC.(none)> 1698824703 +0100	checkout: moving from main to scouting-vincent
+78b480c9038bddc33264097abb1b36569dfa2f8d d4e0823978f0a11ba99256250514b1b5ba537c5b vinga129 <vinga129@student.liu.se> 1699438773 +0100	commit: test debugging commit to test for merge request
+d4e0823978f0a11ba99256250514b1b5ba537c5b 7bf693ca3412e9769663b5e764e90bde49b8319d vinga129 <vinga129@student.liu.se> 1699617694 +0100	commit: Removed previous test changes
+7bf693ca3412e9769663b5e764e90bde49b8319d dde86fe546485089dbce2ad96ae2ff7aa73b6ba2 vinga129 <vinga129@student.liu.se> 1699617759 +0100	checkout: moving from scouting-vincent to main
+dde86fe546485089dbce2ad96ae2ff7aa73b6ba2 7bf693ca3412e9769663b5e764e90bde49b8319d vinga129 <vinga129@student.liu.se> 1699618719 +0100	checkout: moving from main to scouting-vincent
+7bf693ca3412e9769663b5e764e90bde49b8319d 7cf2dbeee23e573ba7dd2033b8384c25d491998b vinga129 <vinga129@student.liu.se> 1699631952 +0100	commit: Got heatmap to work
+7cf2dbeee23e573ba7dd2033b8384c25d491998b ae8c3c7507f788cf9c18221c821b3b8d257461a6 vinga129 <vinga129@student.liu.se> 1700213576 +0100	commit: added debugging methods
+ae8c3c7507f788cf9c18221c821b3b8d257461a6 c6fcdb393c4d1d176fbdf0d086fae885efe70fe4 vinga129 <vinga129@student.liu.se> 1700222699 +0100	commit: added eriks depth code and added more debugging for borders
+c6fcdb393c4d1d176fbdf0d086fae885efe70fe4 8f8fab9a36bf2eeb42fc52103a4d62ea92d32d5f vinga129 <vinga129@student.liu.se> 1700236534 +0100	commit: Started drawing out potentials and keeping track of enemies. Added methods to unit for enemy specific
+8f8fab9a36bf2eeb42fc52103a4d62ea92d32d5f 7ffc765a04bd8150f8d11557ecacb861687ada73 vinga129 <vinga129@student.liu.se> 1701269383 +0100	commit: Added regions, potentials and more
+7ffc765a04bd8150f8d11557ecacb861687ada73 02c975d04fa9f2367e0434ba825f7ae60792894a vinga129 <vinga129@student.liu.se> 1701447148 +0100	commit: Added new scout class and changed some potentials
+02c975d04fa9f2367e0434ba825f7ae60792894a 45e0e6af0c944bdbf91f72593cf297846349d243 vinga129 <vinga129@student.liu.se> 1701447824 +0100	commit: initial integration of region pval
+45e0e6af0c944bdbf91f72593cf297846349d243 d5943add8330cf70469d50c4c2dd1ca82707a4da vinga129 <vinga129@student.liu.se> 1701638700 +0100	pull --tags origin scouting-vincent: Fast-forward
+d5943add8330cf70469d50c4c2dd1ca82707a4da d5ba7793e8fe48ee8585adc91cc1a0ca05fcf494 vinga129 <vinga129@student.liu.se> 1702071538 +0100	commit: Finally potential flow that works. Very large commit. Too much to cover
+d5ba7793e8fe48ee8585adc91cc1a0ca05fcf494 e3a681211c279a3de0ede24acf5214689df88fef vinga129 <vinga129@student.liu.se> 1702072881 +0100	commit: Added new agent class ImprovedAgent and let the basic agent have the old code instead
+e3a681211c279a3de0ede24acf5214689df88fef dea8e13e2f2dc4be48825fc49da0640e577675ac vinga129 <vinga129@student.liu.se> 1702091982 +0100	commit: Cleaned up code and created RegionManager class. Currently issue with chokepoints for scout.
+dea8e13e2f2dc4be48825fc49da0640e577675ac 9b39fe8660081c7ccd9203532b2939181833b144 vinga129 <vinga129@student.liu.se> 1702096876 +0100	commit: Created own implementation of enemy.target; since dont work with API. Renamed some files.
+9b39fe8660081c7ccd9203532b2939181833b144 9a2c26501b9f038c13d4411427fc588e644d33e2 vinga129 <vinga129@student.liu.se> 1702302608 +0100	checkout: moving from scouting-vincent to building-placement-erik
+9a2c26501b9f038c13d4411427fc588e644d33e2 9b39fe8660081c7ccd9203532b2939181833b144 vinga129 <vinga129@student.liu.se> 1702303118 +0100	checkout: moving from building-placement-erik to scouting-vincent
+9b39fe8660081c7ccd9203532b2939181833b144 58b1c8c3e6591a2200ad9111e56800c50f53df9f vinga129 <vinga129@student.liu.se> 1702315373 +0100	commit (merge): Merge branch 'dev' of https://gitlab.liu.se/tddd92-2023/tddd92-2023-projekt-sg1-02 into scouting-vincent
+58b1c8c3e6591a2200ad9111e56800c50f53df9f cac8e7675f9bcd93b5964a54929792dae894571c vinga129 <vinga129@student.liu.se> 1702315482 +0100	checkout: moving from scouting-vincent to dev
+cac8e7675f9bcd93b5964a54929792dae894571c 58b1c8c3e6591a2200ad9111e56800c50f53df9f vinga129 <vinga129@student.liu.se> 1702315495 +0100	checkout: moving from dev to scouting-vincent
+58b1c8c3e6591a2200ad9111e56800c50f53df9f cac8e7675f9bcd93b5964a54929792dae894571c vinga129 <vinga129@student.liu.se> 1702315504 +0100	checkout: moving from scouting-vincent to dev
+cac8e7675f9bcd93b5964a54929792dae894571c 374cf93c1f74050c2b71a7e21144511f6c5079e4 vinga129 <vinga129@student.liu.se> 1702315595 +0100	commit: updated gitignore based on unneccesarry files from vincent
+374cf93c1f74050c2b71a7e21144511f6c5079e4 58b1c8c3e6591a2200ad9111e56800c50f53df9f vinga129 <vinga129@student.liu.se> 1702315769 +0100	checkout: moving from dev to scouting-vincent
+58b1c8c3e6591a2200ad9111e56800c50f53df9f c05d12704fcc3eeb47dcbb162a8b393d440ba9e7 vinga129 <vinga129@student.liu.se> 1702318770 +0100	commit: More changes for fully merging with dev
+c05d12704fcc3eeb47dcbb162a8b393d440ba9e7 c05d12704fcc3eeb47dcbb162a8b393d440ba9e7 vinga129 <vinga129@student.liu.se> 1702318865 +0100	reset: moving to HEAD
+c05d12704fcc3eeb47dcbb162a8b393d440ba9e7 a2744a7a4027d609a3fd33b678648c2174384aab vinga129 <vinga129@student.liu.se> 1702318888 +0100	commit: deleted unneccesarry extra agent
+a2744a7a4027d609a3fd33b678648c2174384aab 6c7a55b615583bb0644393dae12289c38a9c2357 vinga129 <vinga129@student.liu.se> 1702319111 +0100	commit (merge): Merge branch 'dev' of https://gitlab.liu.se/tddd92-2023/tddd92-2023-projekt-sg1-02 into scouting-vincent
+6c7a55b615583bb0644393dae12289c38a9c2357 374cf93c1f74050c2b71a7e21144511f6c5079e4 vinga129 <vinga129@student.liu.se> 1702319253 +0100	checkout: moving from scouting-vincent to dev
+374cf93c1f74050c2b71a7e21144511f6c5079e4 5efbfc6bdbbc65d23bd4b937f88e2136a07e9331 vinga129 <vinga129@student.liu.se> 1702319258 +0100	pull --tags origin dev: Fast-forward
+5efbfc6bdbbc65d23bd4b937f88e2136a07e9331 204fee70b0d07a691ca2d6351611d270c28067f6 vinga129 <vinga129@student.liu.se> 1702385708 +0100	pull --tags origin dev: Fast-forward
+204fee70b0d07a691ca2d6351611d270c28067f6 9a2c26501b9f038c13d4411427fc588e644d33e2 vinga129 <vinga129@student.liu.se> 1702386174 +0100	checkout: moving from dev to building-placement-erik
+9a2c26501b9f038c13d4411427fc588e644d33e2 df072329ce7e53d2919b3448a509dd8b9dd880c4 vinga129 <vinga129@student.liu.se> 1702386748 +0100	commit: updated lower/raise function
+df072329ce7e53d2919b3448a509dd8b9dd880c4 5fd6fb4496bd93eecf2c50349dd9961cbce6d0e4 vinga129 <vinga129@student.liu.se> 1702388416 +0100	commit (merge): Commit of dev pull into this branch
+5fd6fb4496bd93eecf2c50349dd9961cbce6d0e4 204fee70b0d07a691ca2d6351611d270c28067f6 vinga129 <vinga129@student.liu.se> 1702388767 +0100	checkout: moving from building-placement-erik to dev
+204fee70b0d07a691ca2d6351611d270c28067f6 91272d2a95370e5d98dd9debfadc15878d42e1a6 vinga129 <vinga129@student.liu.se> 1702388779 +0100	pull --tags origin dev: Fast-forward
+91272d2a95370e5d98dd9debfadc15878d42e1a6 f243071157f2f8cf674f6ea9f38e5f82cd082088 vinga129 <vinga129@student.liu.se> 1702390311 +0100	commit: some changes after eriks merge. Added option in config for optionally choosing whether to use eriks chokepoints or not
+f243071157f2f8cf674f6ea9f38e5f82cd082088 c5e27fa70116be0fc8d35365df0fa84dc367a349 vinga129 <vinga129@student.liu.se> 1702402263 +0100	pull --tags origin dev: Fast-forward
+c5e27fa70116be0fc8d35365df0fa84dc367a349 c5e27fa70116be0fc8d35365df0fa84dc367a349 vinga129 <vinga129@student.liu.se> 1702402273 +0100	checkout: moving from dev to dev
+c5e27fa70116be0fc8d35365df0fa84dc367a349 6c7a55b615583bb0644393dae12289c38a9c2357 vinga129 <vinga129@student.liu.se> 1702402366 +0100	checkout: moving from dev to scouting-vincent
+6c7a55b615583bb0644393dae12289c38a9c2357 6c7a55b615583bb0644393dae12289c38a9c2357 vinga129 <vinga129@student.liu.se> 1702402421 +0100	reset: moving to HEAD
+6c7a55b615583bb0644393dae12289c38a9c2357 331385a048903a1335dbb13f851d8cc8e4ebe9f7 vinga129 <vinga129@student.liu.se> 1702402493 +0100	commit (merge): dev -> scout
+331385a048903a1335dbb13f851d8cc8e4ebe9f7 0000000000000000000000000000000000000000 vinga129 <vinga129@student.liu.se> 1702402560 +0100	Branch: renamed refs/heads/scouting-vincent to refs/heads/old-scouting-vincent
+0000000000000000000000000000000000000000 331385a048903a1335dbb13f851d8cc8e4ebe9f7 vinga129 <vinga129@student.liu.se> 1702402560 +0100	Branch: renamed refs/heads/scouting-vincent to refs/heads/old-scouting-vincent
+331385a048903a1335dbb13f851d8cc8e4ebe9f7 c5e27fa70116be0fc8d35365df0fa84dc367a349 vinga129 <vinga129@student.liu.se> 1702405810 +0100	checkout: moving from old-scouting-vincent to fix-scouting-recognition
+c5e27fa70116be0fc8d35365df0fa84dc367a349 c5e27fa70116be0fc8d35365df0fa84dc367a349 vinga129 <vinga129@student.liu.se> 1702405871 +0100	checkout: moving from fix-scouting-recognition to dev
+c5e27fa70116be0fc8d35365df0fa84dc367a349 9898eebf73dfdc9f8063505d025e3b4c8d8148ff vinga129 <vinga129@student.liu.se> 1702405889 +0100	commit: added .prof files to gitignore
+9898eebf73dfdc9f8063505d025e3b4c8d8148ff c5e27fa70116be0fc8d35365df0fa84dc367a349 vinga129 <vinga129@student.liu.se> 1702405907 +0100	checkout: moving from dev to fix-scouting-recognition
+c5e27fa70116be0fc8d35365df0fa84dc367a349 9898eebf73dfdc9f8063505d025e3b4c8d8148ff vinga129 <vinga129@student.liu.se> 1702405942 +0100	pull --tags origin dev: Fast-forward
+9898eebf73dfdc9f8063505d025e3b4c8d8148ff fedeb6e59c963de32270b920e6781dbf6b0ceba1 vinga129 <vinga129@student.liu.se> 1702832012 +0100	commit: Fixed vector and target
+fedeb6e59c963de32270b920e6781dbf6b0ceba1 dde86fe546485089dbce2ad96ae2ff7aa73b6ba2 vinga129 <vinga129@student.liu.se> 1702832024 +0100	checkout: moving from fix-scouting-recognition to main
+dde86fe546485089dbce2ad96ae2ff7aa73b6ba2 b026916f200371661935c8c78e2b661ef2357a8b vinga129 <vinga129@student.liu.se> 1702832048 +0100	pull --tags origin main: Fast-forward
+b026916f200371661935c8c78e2b661ef2357a8b 7e6de2dbdb572948e71112d42cef45d1788a4d37 vinga129 <vinga129@student.liu.se> 1702832738 +0100	commit: fixed if statement for debug
+7e6de2dbdb572948e71112d42cef45d1788a4d37 fedeb6e59c963de32270b920e6781dbf6b0ceba1 vinga129 <vinga129@student.liu.se> 1702896786 +0100	checkout: moving from main to fix-scouting-recognition
+fedeb6e59c963de32270b920e6781dbf6b0ceba1 d3e27a60d994de44fb8e21d46e375e11d96cc27a vinga129 <vinga129@student.liu.se> 1702907163 +0100	commit: imeplemented optional way of using pfscout
+d3e27a60d994de44fb8e21d46e375e11d96cc27a 9898eebf73dfdc9f8063505d025e3b4c8d8148ff vinga129 <vinga129@student.liu.se> 1702908438 +0100	checkout: moving from fix-scouting-recognition to dev
+9898eebf73dfdc9f8063505d025e3b4c8d8148ff b98b460eea3345a826e7c84d48e22dd3e419730d vinga129 <vinga129@student.liu.se> 1702908444 +0100	pull --tags origin dev: Fast-forward
+b98b460eea3345a826e7c84d48e22dd3e419730d d3e27a60d994de44fb8e21d46e375e11d96cc27a vinga129 <vinga129@student.liu.se> 1702962635 +0100	checkout: moving from dev to fix-scouting-recognition
+d3e27a60d994de44fb8e21d46e375e11d96cc27a d8eeaf2eefc3a9a53f346e53e3ea20242b9164e3 vinga129 <vinga129@student.liu.se> 1702962655 +0100	commit: mycket testning fix scout
+d8eeaf2eefc3a9a53f346e53e3ea20242b9164e3 b98b460eea3345a826e7c84d48e22dd3e419730d vinga129 <vinga129@student.liu.se> 1702962662 +0100	checkout: moving from fix-scouting-recognition to dev
+b98b460eea3345a826e7c84d48e22dd3e419730d d8eeaf2eefc3a9a53f346e53e3ea20242b9164e3 vinga129 <vinga129@student.liu.se> 1702963279 +0100	checkout: moving from dev to fix-scouting-recognition
+d8eeaf2eefc3a9a53f346e53e3ea20242b9164e3 af8bd4eeb0c59ce069131a47f2ccc8f57e060e6e vinga129 <vinga129@student.liu.se> 1705271764 +0100	commit: messy commit but well working scout
+af8bd4eeb0c59ce069131a47f2ccc8f57e060e6e af8bd4eeb0c59ce069131a47f2ccc8f57e060e6e vinga129 <vinga129@student.liu.se> 1709624385 +0100	checkout: moving from fix-scouting-recognition to ericsson
+af8bd4eeb0c59ce069131a47f2ccc8f57e060e6e af8bd4eeb0c59ce069131a47f2ccc8f57e060e6e vinga129 <vinga129@student.liu.se> 1709624395 +0100	checkout: moving from ericsson to ericsson
+af8bd4eeb0c59ce069131a47f2ccc8f57e060e6e af8bd4eeb0c59ce069131a47f2ccc8f57e060e6e vinga129 <vinga129@student.liu.se> 1709632224 +0100	checkout: moving from ericsson to ericsson
+af8bd4eeb0c59ce069131a47f2ccc8f57e060e6e af8bd4eeb0c59ce069131a47f2ccc8f57e060e6e vinga129 <vinga129@student.liu.se> 1709632233 +0100	checkout: moving from ericsson to fix-scouting-recognition
+af8bd4eeb0c59ce069131a47f2ccc8f57e060e6e 8addc4d7dc1d1f425b681f9d60072c921a83ee18 vinga129 <vinga129@student.liu.se> 1709632252 +0100	pull --tags origin fix-scouting-recognition: Fast-forward
+8addc4d7dc1d1f425b681f9d60072c921a83ee18 8addc4d7dc1d1f425b681f9d60072c921a83ee18 vinga129 <vinga129@student.liu.se> 1709632273 +0100	checkout: moving from fix-scouting-recognition to erc
+8addc4d7dc1d1f425b681f9d60072c921a83ee18 e73ef287f35537dce0c264fc51cdb19acb1c6600 vinga129 <vinga129@student.liu.se> 1709632801 +0100	commit: moved test files to folder
+e73ef287f35537dce0c264fc51cdb19acb1c6600 60b8acd59d361d876478c8015ab4fe32be51fa42 vinga129 <vinga129@student.liu.se> 1710351091 +0100	commit: changes for presentation
+60b8acd59d361d876478c8015ab4fe32be51fa42 0000000000000000000000000000000000000000 vinga129 <vinga129@student.liu.se> 1710352068 +0100	Branch: renamed refs/heads/erc to refs/heads/main
+0000000000000000000000000000000000000000 60b8acd59d361d876478c8015ab4fe32be51fa42 vinga129 <vinga129@student.liu.se> 1710352068 +0100	Branch: renamed refs/heads/erc to refs/heads/main
+60b8acd59d361d876478c8015ab4fe32be51fa42 60b8acd59d361d876478c8015ab4fe32be51fa42 vinga129 <vinga129@student.liu.se> 1710352099 +0100	checkout: moving from main to erc
+60b8acd59d361d876478c8015ab4fe32be51fa42 0000000000000000000000000000000000000000 vinga129 <vinga129@student.liu.se> 1710352130 +0100	Branch: renamed refs/heads/erc to refs/heads/master
+0000000000000000000000000000000000000000 60b8acd59d361d876478c8015ab4fe32be51fa42 vinga129 <vinga129@student.liu.se> 1710352130 +0100	Branch: renamed refs/heads/erc to refs/heads/master

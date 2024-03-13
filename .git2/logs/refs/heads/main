@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 8addc4d7dc1d1f425b681f9d60072c921a83ee18 vinga129 <vinga129@student.liu.se> 1709632273 +0100	branch: Created from fix-scouting-recognition
+8addc4d7dc1d1f425b681f9d60072c921a83ee18 e73ef287f35537dce0c264fc51cdb19acb1c6600 vinga129 <vinga129@student.liu.se> 1709632801 +0100	commit: moved test files to folder
+e73ef287f35537dce0c264fc51cdb19acb1c6600 60b8acd59d361d876478c8015ab4fe32be51fa42 vinga129 <vinga129@student.liu.se> 1710351091 +0100	commit: changes for presentation
+60b8acd59d361d876478c8015ab4fe32be51fa42 60b8acd59d361d876478c8015ab4fe32be51fa42 vinga129 <vinga129@student.liu.se> 1710352068 +0100	Branch: renamed refs/heads/erc to refs/heads/main

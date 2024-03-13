@@ -1,0 +1,27 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://gitlab.liu.se/tddd92-2023/tddd92-2023-projekt-sg1-02
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "building-placement-erik"]
+	remote = origin
+	merge = refs/heads/building-placement-erik
+[branch "dev"]
+	remote = origin
+	merge = refs/heads/dev
+[branch "old-scouting-vincent"]
+	remote = origin
+	merge = refs/heads/old-scouting-vincent
+[branch "fix-scouting-recognition"]
+	remote = origin
+	merge = refs/heads/fix-scouting-recognition
+[branch "main"]
+	vscode-merge-base = origin/fix-scouting-recognition

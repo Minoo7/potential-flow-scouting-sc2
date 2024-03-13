@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+86fe14fb31e85059cdc6b4dae8fe31eeb44a2242 refs/remotes/origin/AiArena-client
+374b2dc1b5c514926cda3e8bd1adf617b71d1baf refs/remotes/origin/building-placement-erik
+dde86fe546485089dbce2ad96ae2ff7aa73b6ba2 refs/remotes/origin/main
+dde86fe546485089dbce2ad96ae2ff7aa73b6ba2 refs/remotes/origin/safe-path-hannes
+78b480c9038bddc33264097abb1b36569dfa2f8d refs/remotes/origin/shared
+aa39c0e87c016d8bf5f59b7c6090100cd70dc912 refs/remotes/origin/strategy-david
