@@ -1,6 +1,6 @@
 # Potential flow scouting in StarCraft II
 
-https://github.com/Minoo7/potential-flow-scouting-sc2/assets/40737862/8ca48f2f-0e63-4f64-b360-f27d0ca8b9fd
+https://github.com/Minoo7/potential-flow-scouting-sc2/assets/40737862/b5bcd4aa-30cc-4736-ba9e-21e2a09a7e87
 
 My most advanced programming project yet. Utilizes the physics concept called potential flows in order to create a high performing StarCraft II scouting agent.
 
